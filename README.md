@@ -1,8 +1,11 @@
-![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fak3)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Fak3&rank_icon=default&hide_rank=true&custom_title=Public%20repositories%20statistics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true)](https://github-stats-extended.vercel.app/api?username=Fak3&rank_icon=default&hide_rank=true&custom_title=Public%20repositories%20statistics&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&disable_animations=true)
+
+
+
+<!--
 
 ![Stats](./profile/stats.svg)
 
-<!--
 **Fak3/Fak3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

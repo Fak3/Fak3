@@ -1,4 +1,7 @@
 ![Roman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fak3)
+
+![Stats](./profile/stats.svg)
+
 <!--
 **Fak3/Fak3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
